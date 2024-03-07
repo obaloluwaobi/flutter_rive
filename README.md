@@ -24,6 +24,7 @@ flutter run
 ## Controlbased
 ![Screenshot_1709771184](https://github.com/obaloluwaobi/flutter_rive/assets/101903208/50d7f175-c062-4085-8fce-07675b32bfbf)
 
+# live site url : [rive_flutter](https://obaloluwaobi.github.io/rive_flutter/)
 
 # Links
 [Twitter/X](https://twitter.com/oba_obidoyin)
