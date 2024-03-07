@@ -38,22 +38,10 @@ class _TimeBasedState extends State<TimeBased> {
   }
 
   void _pause() {
-    if (!_enable) {
-      _enable = false;
-    }
-
     setState(() {
+      _enable = false;
       _timer?.cancel();
     });
-    ;
-  }
-
-  void _pauseResumeTimer() {
-    if (_enable) {
-      _pause();
-    } else {
-      _startTimer();
-    }
   }
 
   @override
@@ -108,13 +96,21 @@ class _TimeBasedState extends State<TimeBased> {
                       '00:${_secs.toString().padLeft(2, '0')}',
                       style: const TextStyle(fontSize: 40),
                     ),
-                    IconButton(
-                        onPressed: _enable ? _pauseResumeTimer : _startTimer,
-                        icon: Icon(
-                          _enable ? Icons.pause_circle : Icons.play_circle,
-                          size: 60,
-                          color: Colors.black,
-                        ))
+                    _enable
+                        ? IconButton(
+                            onPressed: _pause,
+                            icon: Icon(
+                              _enable ? Icons.pause_circle : Icons.play_circle,
+                              size: 60,
+                              color: Colors.black,
+                            ))
+                        : IconButton(
+                            onPressed: _startTimer,
+                            icon: Icon(
+                              _enable ? Icons.pause_circle : Icons.play_circle,
+                              size: 60,
+                              color: Colors.black,
+                            ))
                   ],
                 ),
               ),
