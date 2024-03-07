@@ -1,16 +1,28 @@
-# flutter_rive
+# Rive and Flutter Animation - Day 17
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Development Setup 
+Clone the repo and run the following  
 
-A few resources to get you started if this is your first Flutter project:
+```dart
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ScreenShots 
+
+## Homepage
+![Screenshot_1704491111](https://github.com/obaloluwaobi/real_estate_app/assets/101903208/a55a3eaf-881f-478d-8006-b5b07ef1f2e7)
+
+## Timebased
+![Screenshot_1704491128](https://github.com/obaloluwaobi/real_estate_app/assets/101903208/46cdb92a-25ea-4d67-a7b9-00d6d7c28d74)
+
+## Controlbased
+![Screenshot_1704491128](https://github.com/obaloluwaobi/real_estate_app/assets/101903208/46cdb92a-25ea-4d67-a7b9-00d6d7c28d74)
+
+# Links
+[Twitter/X](https://twitter.com/oba_obidoyin)
+
+<a href="https://www.buymeacoffee.com/obaobidoyin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
