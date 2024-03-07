@@ -14,13 +14,16 @@ flutter run
 # ScreenShots 
 
 ## Homepage
-![Screenshot_1704491111](https://github.com/obaloluwaobi/real_estate_app/assets/101903208/a55a3eaf-881f-478d-8006-b5b07ef1f2e7)
+![Screenshot_1709771189](https://github.com/obaloluwaobi/flutter_rive/assets/101903208/a236924e-4fb8-4ba0-88eb-c6269d36fa4c)
+
 
 ## Timebased
-![Screenshot_1704491128](https://github.com/obaloluwaobi/real_estate_app/assets/101903208/46cdb92a-25ea-4d67-a7b9-00d6d7c28d74)
+![Screenshot_1709769201](https://github.com/obaloluwaobi/flutter_rive/assets/101903208/0c1df5bd-c37e-4d60-a335-1ee7d3307e04)
+
 
 ## Controlbased
-![Screenshot_1704491128](https://github.com/obaloluwaobi/real_estate_app/assets/101903208/46cdb92a-25ea-4d67-a7b9-00d6d7c28d74)
+![Screenshot_1709771184](https://github.com/obaloluwaobi/flutter_rive/assets/101903208/50d7f175-c062-4085-8fce-07675b32bfbf)
+
 
 # Links
 [Twitter/X](https://twitter.com/oba_obidoyin)
